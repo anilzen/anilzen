@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on computing radar cross sections of airplanes.
 - 💬 Ask me about hyperboloidal foliations.
 - 📫 How to reach me: anil@umd.edu
-- ⚡ Fun fact: I lived and worked in 7 different countries.
