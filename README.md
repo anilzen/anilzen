@@ -1,7 +1,6 @@
 ### Hi 👋
 
-- 🔭 After an almost 8-year research break, I'm getting back to scientific productivity.
-- 🌱 I’m currently learning about new imaging technologies for neurons and cancer cells, Helmholtz equations, gravitational waves in de Sitter spacetimes, and second-order self-force.
-- 👯 I’m looking to collaborate on solving Maxwell equations for applied problems in unbounded domains (for example, radar cross sections of airplanes).
-- 💬 Ask me about hyperboloidal foliations.
-- 📫 Reach me at anil@umd.edu
+- 🔭 I'm a scientist working on black holes, gravitational waves, and partial differential equations.
+- 🌱 My main interest is in exploring the implications of hyperboloidal separation of spacetime into space and time. These days I'm working on wave equations in applied problems (to replace perfectly matched layers with compactification at null infinity), cosmology (to perform black hole perturbation theory in asymptotically de Sitter spacetimes) and hyperbolic geometry in quantum field theory (just curious, can we use compactification in lattice calculations?).
+- 👯 If you're interested in any of the above topics, just email me.
+- 📫 You can reach me at anil@umd.edu
